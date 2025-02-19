@@ -1,0 +1,22 @@
+{
+  "name": "product-scraperjs",
+  "version": "1.0.0",
+  "description": "cheerio-based scraper for e-commerce websites",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CuteStoryteller/product-scraperjs.git"
+  },
+  "author": "CuteStoryteller",
+  "keywords": ["scraper", "e-commerce", "cheerio"],
+  "bugs": {
+    "url": "https://github.com/CuteStoryteller/product-scraperjs/issues"
+  },
+  "homepage": "https://github.com/CuteStoryteller/product-scraperjs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fuse.js": "^7.1.0",
+    "lodash": "^4.17.21"
+  }
+}
